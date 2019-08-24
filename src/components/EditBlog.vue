@@ -2,7 +2,7 @@
   <div id="editblog">
     <!-- 写博客 -->
     <form v-show="!singleblog">
-      <h3>第三天切换正在编辑博客</h3>
+      <h3>第四天切换正在编辑博客</h3>
       <label>博客标题</label>
       <input type="text" v-model="blog.title" required />
       <label>博客内容</label>
