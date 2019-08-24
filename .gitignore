@@ -1,6 +1,9 @@
 .DS_Store
 node_modules
 /dist
+.netlify/
+pack-lock.json
+github.md
 
 # local env files
 .env.local
